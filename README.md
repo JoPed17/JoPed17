@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Faculdade: <strong> Estudo Engenharia da Computação na Faculdade Pitágoras </strong>
+  🦄 Faculdade: <strong> Formado em Engenharia da Computação na Faculdade Pitágoras, atualmente fazendo pós em Dev de Games. </strong>
 </p>
 
 <p align="left">
