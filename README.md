@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Trabalho: <strong>Atualmente sou trainee de desenvolvimento na <a href="https://www.tcs.com/">Tata Consultancy Services</a> </strong>
+  💼 Trabalho: <strong>Atualmente sou Dev Jr. na <a href="https://www.tcs.com/">Tata Consultancy Services</a> </strong>
 </p>
 
 <p align="left">
