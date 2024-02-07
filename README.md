@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Trabalho: <strong>Atualmente sou Dev Jr. na <a href="https://www.tcs.com/">Tata Consultancy Services</a> </strong>
+  💼 Trabalho: <strong>Atualmente sou Dev Jr. na <a href="https://www.tcs.com/">Tata Consultancy Services</a> na área de Energy & Research para o cliente Petrobras</strong>
 </p>
 
 <p align="left">
