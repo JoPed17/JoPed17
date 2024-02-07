@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Faculdade: <strong> Formado em Engenharia da Computação na Faculdade Pitágoras, atualmente fazendo pós em Dev de Games. </strong>
+  🦄 Faculdade: <strong> Formado em Engenharia da Computação na Faculdade Pitágoras. </strong>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> Aprendendo HTML, CSS ,C#, Java, JS, .NET </strong>
+  💼 Skills: <strong> HTML, CSS ,C#, JS, .NET, UX/UI Design </strong>
 </p>
 
 <p align="left">
